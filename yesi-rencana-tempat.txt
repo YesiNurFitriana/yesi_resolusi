@@ -1,7 +1,9 @@
 wishlist tempat yang ingin dikunjungi yesi 
 - Rio de jenairo
-  -copacabana
-  -ipanema
+  *copacabana
+  *ipanema
 - Bali
+  *pantai kutai
+  *nonton ogoh-ogoh
 - Lombok
 

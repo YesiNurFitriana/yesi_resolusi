@@ -1,10 +1,11 @@
 wishlist tempat yang ingin dikunjungi yesi 
 - Rio de jenairo
   *copacabana
-   ^ mai bola
+   ^ main bola
   *ipanema
 - Bali
   *pantai kutai
   *nonton ogoh-ogoh
+   ^ malam hari
 - Lombok
-
+  *mandalika
